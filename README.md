@@ -13,13 +13,9 @@ The FitDataKeeper is a desktop application developed using Java Swing and NetBea
  To install and run the FitDataKeeper in NetBeans, follow these steps:
 
 Step 1: Download and install NetBeans IDE from the official website if you haven't already.
-
 Step 2: Clone or download the project from the repository.
-
 Step 3: Open NetBeans IDE and go to File > Open Project. Navigate to the project directory and select the FitDataKeeper project.
-
 Step 4: NetBeans will load the project and its dependencies. Make sure the project is built successfully without any errors.
-
 Step 5: Run the project by clicking the "Run" button in the toolbar or pressing F6.
 
 ## Usage:
